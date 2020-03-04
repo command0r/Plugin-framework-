@@ -1,0 +1,13 @@
+bin
+obj
+dist
+publish
+**/PluginApp/Plugins
+**/PluginServer/Plugins
+**/MyHost/Plugins
+.vs
+*.cmd
+*.sln
+appsettings.Development.json
+!Monorepo.sln
+Plugins
